@@ -1,8 +1,6 @@
-# **Prueba Técnica  Desarrollador Full Stack**
-
 ## API RESTful con Laravel
 
-En la carpeta 'prueba-tecnica-api' se encuentra el API RESTful con Laravel
+En la carpeta 'prueba-api' se encuentra el API RESTful con Laravel
 
 Versiones:
     php 8.2
